@@ -57,3 +57,4 @@ history <- model %>% fit(
 # COMMAND ----------
 
 plot(history)
+
